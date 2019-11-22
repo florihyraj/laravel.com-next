@@ -32,24 +32,24 @@
                                     <a href="/docs" class="btn"><span>Documentation</span></a>
                                     <a href="https://laracasts.com" data-remodal-target="video_modal" class="btn secondary"><span><img src="/img/icons/play.min.svg" alt="Play Video"><span>Watch Laracasts</span></span></a>
 
-<!--                                     <div data-remodal-id="video_modal" class="video_modal remodal">
+                                     <div data-remodal-id="video_modal" class="video_modal remodal">
                                         <div class="video_contain">
                                             <button data-remodal-action="close" class="remodal-close"></button>
                                             <iframe frameborder="0" scrolling="no" marginheight="0" marginwidth="0" type="text/html" src="https://www.youtube.com/embed/cAGQGXtBvs4?autoplay=0&fs=0&iv_load_policy=3&showinfo=0&rel=0&cc_load_policy=0&start=0&end=0&origin=https://youtubeembedcode.com"></iframe>
                                         </div>
-                                    </div> -->
+                                    </div>
                                 </div>
                             </div>
                         </section>
                     </div>
-<!--                     <ul class="logos_list">
+                     <ul class="logos_list">
                         <li><img src="/img/logos/wwe.min.svg" alt="WWE"></li>
                         <li><img src="/img/logos/discovery.min.svg" alt="Discovery"></li>
                         <li><img src="/img/logos/mcdonalds.min.svg" alt="McDonalds"></li>
                         <li><img src="/img/logos/apple.min.svg" alt="Apple"></li>
                         <li><img src="/img/logos/fox.min.svg" alt="20th Century Fox"></li>
                         <li><img src="/img/logos/mcgraw_hill.min.svg" alt="McGraw Hill"></li>
-                    </ul> -->
+                    </ul>
                     <div class="contain">
                         <div class="content_block img_left">
                             <div class="bg">
